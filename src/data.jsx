@@ -4,10 +4,10 @@ import { FiYoutube, FiTwitter, FiGithub, FiLinkedin } from "react-icons/fi";
 // skills images
 import SkillImg1 from "./assets/img/skills/html.png";
 import SkillImg2 from "./assets/img/skills/javascript.png";
-import SkillImg3 from "./assets/img/skills/typescript.png";
+import SkillImg3 from "./assets/img/skills/figma.png";
 import SkillImg4 from "./assets/img/skills/react.png";
 import SkillImg5 from "./assets/img/skills/java.png";
-import SkillImg6 from "./assets/img/skills/sql.png";
+import SkillImg6 from "./assets/img/skills/css3.png";
 
 // navigation
 export const navigation = [

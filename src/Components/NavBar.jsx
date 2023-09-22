@@ -9,7 +9,7 @@ export const NavBar = () => {
       {navigation.map((item,index)=>{
         return(
           <li className="text-white hover:text-fuchsia-500 cursor-pointer">
-            Test
+            Test, Goku
           </li>
         )
       })}
