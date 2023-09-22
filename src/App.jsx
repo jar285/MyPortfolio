@@ -1,5 +1,5 @@
 import React from "react";
-import { Header } from "./Components/Header";
+import { Header } from "./Components/Header"
 import { Hero } from "./Components/Hero";
 import { ArrowSection } from "./Components/ArrowSection";
 import { About } from "./Components/About";
